@@ -1,4 +1,10 @@
-# DataAnalisisUSK
+# Data Analisis USK
+
+requirement:
+- pip install numpy
+- pip install python-docx
+- pip install scipy
+- pip install matplotlib
 
 code python untuk menjawab pertanyaan berikut
 
